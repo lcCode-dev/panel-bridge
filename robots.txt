@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://panel-bridge.lccode.dev/sitemap.xml
